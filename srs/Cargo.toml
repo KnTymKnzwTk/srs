@@ -1,0 +1,6 @@
+[package]
+name = "srs"
+version = "0.1.0"
+authors = ["K Nu <kn@g.com>"]
+
+[dependencies]
